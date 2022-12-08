@@ -15,3 +15,4 @@ C:\Users\hp\source\repos\testingg\obj\Debug\net6.0-windows\refint\testingg.dll
 C:\Users\hp\source\repos\testingg\obj\Debug\net6.0-windows\testingg.pdb
 C:\Users\hp\source\repos\testingg\obj\Debug\net6.0-windows\testingg.genruntimeconfig.cache
 C:\Users\hp\source\repos\testingg\obj\Debug\net6.0-windows\ref\testingg.dll
+C:\Users\hp\source\repos\testingg\obj\Debug\net6.0-windows\testingg.Form2.resources
