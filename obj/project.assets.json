@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\testingg\\testingg.vbproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\testing-vb\\testingg.vbproj",
       "projectName": "testingg",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\testingg\\testingg.vbproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\testing-vb\\testingg.vbproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\testingg\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\testing-vb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
